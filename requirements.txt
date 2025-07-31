@@ -1,0 +1,4 @@
+| Package    | Minimum Version | Purpose                                   |
+|------------|-----------------|-------------------------------------------|
+| pandas     | 1.1.0           | Data manipulation and CSV handling        |
+| matplotlib | 3.3.0           | Plotting and visualizing finance charts   |
