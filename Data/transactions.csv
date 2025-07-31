@@ -1,0 +1,106 @@
+Date,Category,Type,Amount,Description
+2025-01-03,Salary,Income,30000,Monthly Salary
+2025-01-04,Rent,Expense,9000,January Rent
+2025-01-05,Food,Expense,1200,Groceries
+2025-01-05,Transport,Expense,180,Bus Ticket
+2025-01-07,Entertainment,Expense,800,Cinema
+2025-01-09,Medical,Expense,650,Medicines
+2025-01-10,Salary,Income,2000,Freelance
+2025-01-11,Utilities,Expense,1600,Gas Bill
+2025-01-12,Transport,Expense,120,Taxi Fare
+2025-01-13,Food,Expense,700,Lunch
+2025-01-13,Gift,Expense,500,Anniversary Gift
+2025-01-14,Investment,Expense,4500,Stocks
+2025-01-16,Salary,Income,800,Part-time
+2025-01-17,Food,Expense,420,Breakfast Out
+2025-01-19,Utilities,Expense,3600,Electricity Bill
+2025-01-20,Interest,Income,500,FD Interest
+2025-01-21,Entertainment,Expense,300,Online Game
+2025-01-22,Transport,Expense,130,Bike Fuel
+2025-01-24,Food,Expense,1100,Family Dinner
+2025-01-25,Medical,Expense,700,Doctor Visit
+2025-02-01,Salary,Income,30000,Monthly Salary
+2025-02-02,Rent,Expense,9000,February Rent
+2025-02-03,Food,Expense,900,Groceries
+2025-02-04,Transport,Expense,200,Train
+2025-02-06,Gift,Expense,700,Birthday Gift
+2025-02-07,Entertainment,Expense,1000,Concert
+2025-02-09,Utilities,Expense,1550,Phone Bill
+2025-02-10,Salary,Income,1200,Side Project
+2025-02-11,Food,Expense,480,Snacks
+2025-02-13,Transport,Expense,150,Auto Fare
+2025-02-13,Medical,Expense,650,Medicines
+2025-02-14,Food,Expense,350,Breakfast
+2025-02-15,Investment,Expense,3000,Mutual Fund
+2025-02-17,Salary,Income,2500,Bonus
+2025-02-18,Utilities,Expense,3700,Water Bill
+2025-02-19,Entertainment,Expense,1200,Theater
+2025-02-21,Food,Expense,980,Takeout
+2025-02-22,Transport,Expense,170,Metro
+2025-02-23,Gift,Expense,300,Valentine Gift
+2025-02-24,Medical,Expense,700,Eye Checkup
+2025-03-01,Salary,Income,30000,Monthly Salary
+2025-03-02,Rent,Expense,9000,March Rent
+2025-03-03,Food,Expense,1200,Groceries
+2025-03-04,Transport,Expense,200,Bus Pass
+2025-03-06,Entertainment,Expense,1400,Music Show
+2025-03-07,Salary,Income,2200,Freelance
+2025-03-08,Investment,Expense,5000,Stock Purchase
+2025-03-09,Food,Expense,450,Lunch Out
+2025-03-10,Utilities,Expense,1600,Internet Bill
+2025-03-11,Gift,Expense,520,Gift to Friend
+2025-03-12,Health,Expense,1200,Gym Membership
+2025-03-13,Medical,Expense,800,Medicines
+2025-03-14,Transport,Expense,100,Taxi
+2025-03-15,Salary,Income,950,Part-time Tutor
+2025-03-16,Food,Expense,380,Breakfast
+2025-03-17,Utilities,Expense,3650,Electricity Bill
+2025-03-18,Interest,Income,600,FD Interest
+2025-03-19,Gift,Expense,200,Birthday Card
+2025-03-20,Food,Expense,550,Sandwiches
+2025-03-21,Entertainment,Expense,500,Arcade
+2025-03-22,Transport,Expense,170,Bike Repair
+2025-03-23,Medical,Expense,350,OTC Medicine
+2025-03-24,Salary,Income,1300,Online Gig
+2025-03-25,Investment,Expense,2200,Mutual Fund
+2025-03-26,Food,Expense,1150,Family Dinner
+2025-03-27,Rent,Expense,3000,Sublet
+2025-03-28,Utilities,Expense,1780,Gas Bill
+2025-03-29,Entertainment,Expense,760,Streaming Sub
+2025-03-30,Health,Expense,900,Fitness Trainer
+2025-03-31,Salary,Income,800,Project Work
+2025-04-01,Salary,Income,32000,Monthly Salary
+2025-04-02,Rent,Expense,9000,April Rent
+2025-04-03,Food,Expense,950,Supermarket
+2025-04-04,Transport,Expense,180,Rickshaw
+2025-04-05,Gift,Expense,550,Wedding Gift
+2025-04-06,Entertainment,Expense,1100,Concert
+2025-04-07,Invest,Expense,2600,SIP
+2025-04-08,Salary,Income,1650,Freelance
+2025-04-09,Utilities,Expense,1580,Phone Bill
+2025-04-10,Food,Expense,1100,Takeout
+2025-04-11,Transport,Expense,200,Cab
+2025-04-12,Medical,Expense,700,Medicines
+2025-04-13,Food,Expense,400,Lunch
+2025-04-14,Salary,Income,950,Teaching
+2025-04-15,Utilities,Expense,1620,Internet Bill
+2025-04-16,Entertainment,Expense,1200,Stand-up Show
+2025-04-17,Rent,Expense,3050,Extra Storage
+2025-04-18,Interest,Income,650,FD Interest
+2025-04-19,Gift,Expense,900,Gift Hamper
+2025-04-20,Food,Expense,600,Snacks
+2025-04-21,Transport,Expense,150,Bike Fuel
+2025-04-22,Medical,Expense,480,Dental Check
+2025-04-23,Food,Expense,750,Family Lunch
+2025-04-24,Entertainment,Expense,1100,Movie Night
+2025-04-25,Investment,Expense,3400,Stock Buy
+2025-04-26,Food,Expense,1150,Groceries
+2025-04-27,Utilities,Expense,1750,Water Bill
+2025-04-28,Salary,Income,1300,Online Gig
+2025-04-29,Transport,Expense,125,Rickshaw
+2025-04-30,Medical,Expense,1100,Blood Test
+2025-05-01,Salary,Income,33000,Monthly Salary
+2025-05-02,Rent,Expense,9000,May Rent
+2025-05-03,Food,Expense,1200,Groceries
+2025-05-04,Transport,Expense,210,Bus Pass
+2025-05-05,Entertainment,Expense,1000,Music Festival
