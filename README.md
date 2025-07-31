@@ -157,7 +157,6 @@ To request permission for any other use, contact GAZANFAR ALI at [itsgazanfar@gm
 
 • LinkedIn : https://www.linkedin.com/in/gazanfar-ali
 
-• Phone : 03053839897 (WhatsApp Only)
 
 ---
 
